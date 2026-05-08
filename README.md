@@ -150,11 +150,12 @@ A configuration-driven XML generation engine to automate complex data reporting 
 
 ---
 
-## 📊 GitHub Stats
-
+📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RIDHVI07&show_icons=true&theme=default&hide_border=true&count_private=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RIDHVI07&layout=compact&theme=default&hide_border=true" height="160" />
+  <img src="https://streak-stats.demolab.com?user=RIDHVI07&theme=default&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="160" />
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RIDHVI07&theme=default" width="100%" />
 </p>
 
 ---

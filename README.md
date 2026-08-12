@@ -63,10 +63,7 @@ Outside of work I build in the same domain. My projects pair **FIX/trading syste
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
-![JUnit5](https://img.shields.io/badge/JUnit%205-25A162?style=flat-square&logo=junit5&logoColor=white)
-![Mockito](https://img.shields.io/badge/Mockito-78A641?style=flat-square)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 **Domain**
@@ -91,7 +88,7 @@ An AI investigation workspace that combines document intelligence with FIX proto
 - 12 modules spanning knowledge base, trading investigation, timeline exploration, report generation and dashboards
 - **React 18 + Vite + Tailwind** frontend with Recharts analytics
 
-`Java 21` `Spring Boot 3` `Spring Data JPA` `H2 / PostgreSQL` `PDFBox` `Apache POI` `React 18` `Vite` `Tailwind`
+`Java 21` `Spring Boot 3` `Spring Data JPA` `H2 / PostgreSQL` `React 18`
 
 ---
 
@@ -107,7 +104,7 @@ A self-contained FIX 4.4 trading simulator. Pairs a FIX initiator with an in-pro
 - Multi-stage **Docker** build — one `docker-compose up` to run, no Java install required
 - Tested with **JUnit 5, Mockito and MockMvc** across repository, service and controller layers
 
-`Java 17` `Spring Boot 3` `QuickFIX/J` `FIX 4.4` `Docker Compose` `JUnit 5` `Maven`
+`Java 17` `Spring Boot 3` `QuickFIX/J` `FIX 4.4`  `JUnit 5` `Maven`
 
 ---
 
@@ -150,7 +147,6 @@ An event-driven e-commerce platform with separate customer and admin surfaces. C
 | 🎓 **CGPA 9.3/10** | B.Tech (Hons) Computer Science — Poornima College of Engineering |
 | 👨‍💻 **GDSC Lead** | Led technical workshops on DSA and backend system design for **600+ members** |
 | 📜 **NPTEL Elite** | "Elite" certification in Introduction to Algorithms; certified in Java, C++ and C |
-| 🏅 **Technovation Prize** | Research paper award — Distributed Systems and Low-Latency Backend Architectures |
 
 ---
 

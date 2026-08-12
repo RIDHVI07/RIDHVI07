@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Ridhvi Kulshrestha 👋</h1>
 
 <p align="center">
-  <strong>Backend Developer · Java & Spring Boot · Electronic Trading Systems · Distributed Systems</strong>
+  <strong>Java &amp; C# Backend Engineer · Electronic Trading Systems · FIX Protocol · AI/RAG</strong>
 </p>
 
 <p align="center">
@@ -15,11 +15,13 @@
 
 ## About Me
 
-I'm a backend developer with **2.5+ years** of production experience building **low-latency trading systems** and **distributed backend infrastructure** at [Nirvana Solutions India Pvt Ltd](https://nirvanasolutions.co/).
+I'm a backend engineer with **3+ years** of production experience building **low-latency trading systems** at [Nirvana Solutions](https://nirvanasolutions.co/), working in **Java** and **C#**.
 
-My core expertise is in **Java** and **C#**, with deep hands-on experience in **FIX Protocol (4.2/4.4)**, **QuickFIX/J**, **Spring Boot**, and **Apache Kafka**. I design systems where correctness, concurrency, and throughput matter — order routing engines, execution handlers, and real-time data pipelines.
+Day to day I work on the parts of a trading stack where correctness and concurrency actually matter — **FIX Protocol** order routing engines, execution report handlers, **ATDL**-driven order entry, and real-time data pipelines. A lot of my time goes into production debugging: tracing multithreading and concurrency defects in live environments through log analysis and profiling.
 
-I hold a **B.Tech (Hons) in Computer Science** from Poornima College of Engineering (CGPA: 9.3/10) and was a **Google Developer Student Club (GDSC) Lead**, running technical workshops for 600+ members.
+Outside of work I build in the same domain. My projects pair **FIX/trading systems** with **Retrieval-Augmented Generation** — including a local RAG engine with a FIX log analyzer, and a full FIX 4.4 exchange simulator.
+
+**B.Tech (Hons) Computer Science**, Poornima College of Engineering — CGPA 9.3/10. Former **Google Developer Student Club Lead** (600+ members).
 
 ---
 
@@ -27,98 +29,100 @@ I hold a **B.Tech (Hons) in Computer Science** from Poornima College of Engineer
 
 **Languages**
 
-![Java](https://img.shields.io/badge/Java%208%2F11%2F17-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Java](https://img.shields.io/badge/Java%2017%20%2F%2021-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-**Backend Frameworks & Architecture**
+**Backend & Frameworks**
 
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![Spring Cloud](https://img.shields.io/badge/Spring%20Cloud-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot%203-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Spring Data JPA](https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate%206-59666C?style=flat-square&logo=hibernate&logoColor=white)
 ![.NET Core](https://img.shields.io/badge/.NET%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white)
-![Microservices](https://img.shields.io/badge/Microservices-Architecture-informational?style=flat-square)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-informational?style=flat-square)
 
-**Messaging & Protocols**
+**Trading Technology**
 
-![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
 ![FIX Protocol](https://img.shields.io/badge/FIX%20Protocol-4.4-blueviolet?style=flat-square)
 ![QuickFIX/J](https://img.shields.io/badge/QuickFIX%2FJ-Order%20Routing-blueviolet?style=flat-square)
+![ATDL](https://img.shields.io/badge/ATDL-Order%20Entry-blueviolet?style=flat-square)
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
 ![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socket.io&logoColor=white)
 
-**Databases & Tools**
+**AI & GenAI**
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-8A2BE2?style=flat-square)
+![Vector Search](https://img.shields.io/badge/Embeddings%20%26%20Vector%20Search-8A2BE2?style=flat-square)
+![Gemini](https://img.shields.io/badge/Google%20Gemini%20API-4285F4?style=flat-square&logo=googlegemini&logoColor=white)
+![AI Assisted Dev](https://img.shields.io/badge/AI--Assisted%20Dev-Claude%20%2F%20ChatGPT-8A2BE2?style=flat-square)
+
+**Databases, Testing & Tools**
+
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
+![JUnit5](https://img.shields.io/badge/JUnit%205-25A162?style=flat-square&logo=junit5&logoColor=white)
+![Mockito](https://img.shields.io/badge/Mockito-78A641?style=flat-square)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-**Domain Expertise**
+**Domain**
 
 ![Electronic Trading](https://img.shields.io/badge/Electronic%20Trading%20Systems-0d1117?style=flat-square)
 ![Low Latency](https://img.shields.io/badge/Low--Latency%20Applications-0d1117?style=flat-square)
 ![Distributed Systems](https://img.shields.io/badge/Distributed%20Systems-0d1117?style=flat-square)
-![System Design](https://img.shields.io/badge/System%20Design-0d1117?style=flat-square)
+![Event Driven](https://img.shields.io/badge/Event--Driven%20Architecture-0d1117?style=flat-square)
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🔀 FIX Protocol Trading Simulator
-> **Java · Spring Boot · QuickFIX/J · REST API · Docker**
+### 🔍 [TradeLens AI](https://github.com/RIDHVI07/Tradelens-AI-Project) — FIX Log Analysis + Local RAG
+> **Java 21 · Spring Boot 3 · RAG · React 18 · Google Gemini**
 
-A self-contained FIX 4.4 trading simulator built with QuickFIX/J and Spring Boot. Implements a mock exchange acceptor, in-memory order book, and REST API for order lifecycle management (place, cancel, query). Containerized with Docker Compose for zero-dependency local execution.
+An AI investigation workspace that combines document intelligence with FIX protocol analysis. Runs entirely locally — no Docker, no Kubernetes, no external vector database.
 
-- FIX 4.4 initiator + acceptor with full session management
-- REST endpoints for new order, cancel, and order status
-- In-memory order repository with thread-safe order book operations
-- Swagger/OpenAPI documentation for all endpoints
+- **FIX Log Analyzer** — parses trading logs and detects anomalies including rejects, sequence gaps and duplicate orders, feeding timeline generation and root-cause analysis
+- **Local RAG engine** — document parsing → chunking → offline embeddings → in-database vector storage → semantic retrieval with source citations
+- Document ingestion via **PDFBox** and **Apache POI**; optional **Google Gemini** integration
+- 12 modules spanning knowledge base, trading investigation, timeline exploration, report generation and dashboards
+- **React 18 + Vite + Tailwind** frontend with Recharts analytics
 
-`Java 17` `Spring Boot 3` `QuickFIX/J` `Docker` `JUnit 5` `Maven`
-
----
-
-### ⚡ Distributed Rate Limiter
-> **Spring Boot · Redis · Spring AOP · System Design**
-
-A production-grade distributed rate limiting library implementing Token Bucket and Sliding Window Log algorithms. Exposed as a custom `@RateLimited` Spring annotation using AOP — drop-in for any Spring Boot application.
-
-- Two configurable algorithms: Token Bucket and Sliding Window
-- Redis-backed distributed counter store (works across multiple instances)
-- Custom annotation-based API via Spring AOP
-- Load tested at 10,000 req/s with sub-2ms p99 latency
-
-`Spring Boot 3` `Redis` `Spring AOP` `JUnit 5` `Docker Compose`
+`Java 21` `Spring Boot 3` `Spring Data JPA` `H2 / PostgreSQL` `PDFBox` `Apache POI` `React 18` `Vite` `Tailwind`
 
 ---
 
-### 📦 Event-Driven Order Management System
-> **Spring Boot · Apache Kafka · Spring Cloud · Microservices · Docker**
+### 🔀 [FIX Trading Simulator](https://github.com/RIDHVI07/Fix-Trading-Simulator) — FIX 4.4 Order Lifecycle
+> **Java 17 · Spring Boot 3 · QuickFIX/J · Docker**
 
-A 3-service event-driven order management system demonstrating asynchronous inter-service communication, API gateway routing, and circuit-breaker patterns.
+A self-contained FIX 4.4 trading simulator. Pairs a FIX initiator with an in-process mock exchange acceptor, so complete order lifecycles can be exercised with zero external venue connectivity.
 
-- Services: `order-service`, `inventory-service`, `notification-service`
-- Apache Kafka message bus with guaranteed delivery semantics
-- Spring Cloud Gateway for API routing and cross-cutting concerns
-- Resilience4j circuit breaker on all synchronous service calls
-- Full Docker Compose setup (services + Kafka + PostgreSQL)
+- FIX 4.4 **initiator + acceptor** with full session management, logon/logout and heartbeats
+- **NewOrderSingle**, **OrderCancelRequest** and asynchronous **ExecutionReport** handling (NEW → FILLED)
+- Thread-safe in-memory order book with dual indexing on `orderId` and FIX `ClOrdID`
+- REST API for place / cancel / query, fully documented with **Swagger/OpenAPI**
+- Multi-stage **Docker** build — one `docker-compose up` to run, no Java install required
+- Tested with **JUnit 5, Mockito and MockMvc** across repository, service and controller layers
 
-`Spring Boot 3` `Apache Kafka` `Spring Cloud Gateway` `Resilience4j` `PostgreSQL` `Docker Compose`
+`Java 17` `Spring Boot 3` `QuickFIX/J` `FIX 4.4` `Docker Compose` `JUnit 5` `Maven`
 
 ---
 
-### ⚙️ Automated XML Engine
-> **C# · .NET Core · Data Structures · File I/O**
+### 📦 [CommerceFlow](https://github.com/RIDHVI07/CommerceFlow-Application) — Event-Driven Commerce Platform
+> **Java 21 · Spring Boot 3.5 · MySQL 8 · Spring Security**
 
-A configuration-driven XML generation engine to automate complex data reporting workflows at Nirvana Solutions. Eliminated manual processing bottlenecks across multiple data pipelines.
+An event-driven e-commerce platform with separate customer and admin surfaces. Checkout stays responsive by pushing side effects off the request path.
 
-- Configuration-driven template engine — zero code change for new report types
-- Optimized file processing with custom data structure selection
-- Achieved 30–40% reduction in execution time on large datasets
+- Placing an order publishes an **`OrderPlacedEvent`** consumed independently by three listeners — inventory decrement with low-stock flagging, in-app notification, and audit logging — on a dedicated **`ThreadPoolTaskExecutor`** rather than blocking checkout
+- **Spring Security 6** with JWT (jjwt) and BCrypt password hashing
+- Layered architecture — controller → service → repository → entity — with **12 JPA entities, 11 repositories and 8 domain events**
+- Customer routes for cart and order history; admin routes for inventory, dashboards and audit trails
+- **JUnit 5 + Mockito + H2** test suite
 
-`C#` `.NET Core` `File I/O` `Data Structures`
+`Java 21` `Spring Boot 3.5` `Spring Data JPA` `Hibernate 6` `MySQL 8` `Spring Security` `JWT` `Thymeleaf` `JUnit 5`
 
 ---
 
@@ -126,16 +130,16 @@ A configuration-driven XML generation engine to automate complex data reporting 
 
 **Backend Developer** · Nirvana Solutions India Pvt Ltd · *Jan 2023 – Present*
 
-- Architected high-performance Java and C# trading services with **99.9% uptime** under heavy production load
-- Engineered **FIX Protocol** order routing engines enabling low-latency transaction processing and high-throughput real-time data pipelines
-- Designed RESTful APIs between core backend modules and front-end interfaces, reducing integration latency by **25%**
-- Resolved complex multithreading and concurrency bugs via deep log analysis and profiling
-- Refactored legacy codebases and SQL queries, cutting resource consumption by **~35%**
+- Delivered production backend trading services in **Java** and **C#**, sustaining **99.9% uptime** for order and execution workflows under heavy load
+- Engineered **FIX Protocol** order routing engines, execution report handlers and **ATDL**-driven order entry for venue-specific algorithmic parameters
+- Designed **RESTful APIs** between core backend modules and front-end interfaces, cutting integration latency by **25%**
+- Diagnosed and resolved complex **multithreading and concurrency** defects in live trading environments through log analysis and profiling
+- Refactored legacy codebases and optimized **SQL** queries, reducing resource consumption by **~35%**
+- Built a configuration-driven **XML generation engine** in C#/.NET Core for automated reporting, cutting execution time **30–40%** on large datasets
 
-**Software Developer Intern** · Dept. of IT & Communication, Govt. of Rajasthan · *Jul 2022 – Dec 2022*
+**Software Developer Intern** · Dept. of IT &amp; Communication, Govt. of Rajasthan · *Jul 2022 – Dec 2022*
 
-- Built REST API backend for the **iSTART** mobile application handling real-time startup data and funding workflows
-- Managed PostgreSQL schemas and implemented secure server-side authentication
+- Built the **iSTART** mobile application backend with **REST APIs** and **PostgreSQL**, implementing secure server-side authentication and schema design
 
 ---
 
@@ -145,12 +149,13 @@ A configuration-driven XML generation engine to automate complex data reporting 
 |---|---|
 | 🎓 **CGPA 9.3/10** | B.Tech (Hons) Computer Science — Poornima College of Engineering |
 | 👨‍💻 **GDSC Lead** | Led technical workshops on DSA and backend system design for **600+ members** |
-| 📜 **NPTEL Elite** | "Elite" certification in Introduction to Algorithms; certified in Java, C++, and C |
+| 📜 **NPTEL Elite** | "Elite" certification in Introduction to Algorithms; certified in Java, C++ and C |
 | 🏅 **Technovation Prize** | Research paper award — Distributed Systems and Low-Latency Backend Architectures |
 
 ---
 
-📊 GitHub Stats
+## 📊 GitHub Stats
+
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=RIDHVI07&theme=default&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="160" />
 </p>
@@ -162,7 +167,7 @@ A configuration-driven XML generation engine to automate complex data reporting 
 
 ## 📫 Let's Connect
 
-I'm actively looking for **backend engineering roles** in fintech, distributed systems, and high-performance Java/Spring Boot environments.
+I'm actively looking for **backend engineering roles** in fintech, electronic trading and high-performance Java/Spring Boot environments.
 
 - 📧 **ridhvikul07@gmail.com**
 - 💼 **[LinkedIn](https://linkedin.com/in/ridhvi-kulshrestha)**

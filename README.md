@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="mailto:ridhvikul07@gmail.com"><img src="https://img.shields.io/badge/Email-ridhvikul07%40gmail.com-blue?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/ridhvi-kulshrestha"><img src="https://img.shields.io/badge/LinkedIn-Ridhvi%20Kulshrestha-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/ridhvikulshrestha"><img src="https://img.shields.io/badge/LinkedIn-Ridhvi%20Kulshrestha-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
   <img src="https://img.shields.io/badge/Location-Jaipur%2C%20India-orange?style=flat-square&logo=googlemaps&logoColor=white" />
   <img src="https://img.shields.io/badge/Open%20to-New%20Opportunities-brightgreen?style=flat-square" />
 </p>
@@ -33,7 +33,6 @@ Outside of work I build in the same domain. My projects pair **FIX/trading syste
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-
 
 **Backend & Frameworks**
 
@@ -93,6 +92,8 @@ An AI investigation workspace that combines document intelligence with FIX proto
 ---
 
 ### 🔀 [FIX Trading Simulator](https://github.com/RIDHVI07/Fix-Trading-Simulator) — FIX 4.4 Order Lifecycle
+[![Build](https://github.com/RIDHVI07/Fix-Trading-Simulator/actions/workflows/ci.yml/badge.svg)](https://github.com/RIDHVI07/Fix-Trading-Simulator/actions/workflows/ci.yml)
+
 > **Java 17 · Spring Boot 3 · QuickFIX/J · Docker**
 
 A self-contained FIX 4.4 trading simulator. Pairs a FIX initiator with an in-process mock exchange acceptor, so complete order lifecycles can be exercised with zero external venue connectivity.
@@ -102,9 +103,9 @@ A self-contained FIX 4.4 trading simulator. Pairs a FIX initiator with an in-pro
 - Thread-safe in-memory order book with dual indexing on `orderId` and FIX `ClOrdID`
 - REST API for place / cancel / query, fully documented with **Swagger/OpenAPI**
 - Multi-stage **Docker** build — one `docker-compose up` to run, no Java install required
-- Tested with **JUnit 5, Mockito and MockMvc** across repository, service and controller layers
+- **37 tests** across repository, service, controller and integration layers (JUnit 5, Mockito, MockMvc), run on every push by GitHub Actions
 
-`Java 17` `Spring Boot 3` `QuickFIX/J` `FIX 4.4`  `JUnit 5` `Maven`
+`Java 17` `Spring Boot 3` `QuickFIX/J` `FIX 4.4` `JUnit 5` `Maven`
 
 ---
 
@@ -166,7 +167,7 @@ An event-driven e-commerce platform with separate customer and admin surfaces. C
 I'm actively looking for **backend engineering roles** in fintech, electronic trading and high-performance Java/Spring Boot environments.
 
 - 📧 **ridhvikul07@gmail.com**
-- 💼 **[LinkedIn](https://linkedin.com/in/ridhvi-kulshrestha)**
+- 💼 **[LinkedIn](https://www.linkedin.com/in/ridhvikulshrestha)**
 - 📍 **Jaipur, Rajasthan, India** · Open to remote and relocation
 
 ---

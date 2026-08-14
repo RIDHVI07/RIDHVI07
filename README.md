@@ -77,6 +77,8 @@ Outside of work I build in the same domain. My projects pair **FIX/trading syste
 ## 🚀 Featured Projects
 
 ### 🔍 [TradeLens AI](https://github.com/RIDHVI07/Tradelens-AI-Project) — FIX Log Analysis + Local RAG
+[![Build](https://github.com/RIDHVI07/Tradelens-AI-Project/actions/workflows/ci.yml/badge.svg)](https://github.com/RIDHVI07/Tradelens-AI-Project/actions/workflows/ci.yml)
+
 > **Java 21 · Spring Boot 3 · RAG · React 18 · Google Gemini**
 
 An AI investigation workspace that combines document intelligence with FIX protocol analysis. Runs entirely locally — no Docker, no Kubernetes, no external vector database.
@@ -110,6 +112,8 @@ A self-contained FIX 4.4 trading simulator. Pairs a FIX initiator with an in-pro
 ---
 
 ### 📦 [CommerceFlow](https://github.com/RIDHVI07/CommerceFlow-Application) — Event-Driven Commerce Platform
+[![Build](https://github.com/RIDHVI07/CommerceFlow-Application/actions/workflows/ci.yml/badge.svg)](https://github.com/RIDHVI07/CommerceFlow-Application/actions/workflows/ci.yml)
+
 > **Java 21 · Spring Boot 3.5 · MySQL 8 · Spring Security**
 
 An event-driven e-commerce platform with separate customer and admin surfaces. Checkout stays responsive by pushing side effects off the request path.
